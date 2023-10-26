@@ -1,7 +1,7 @@
 # EDOPro Dark Theme
  Dark Theme for EDOPro 
 
-This was made for Project Ignis: https://projectignis.github.io/ not sure if it will work in the other simulators.
+This was made for Project Ignis: https://projectignis.github.io/ might not work in the other simulators.
 
 
 # Install
@@ -11,7 +11,7 @@ This was made for Project Ignis: https://projectignis.github.io/ not sure if it 
 3. Select "EDOPro-Dark-Theme" under skin in the options.
 
 
-Screenshots:
+# Screenshots:
 
 ![Alt text](screen/image-3.png)
 
@@ -19,7 +19,7 @@ Screenshots:
 
 ![Alt text](screen/image-5.png)
 
-New Higher Res Icons and Text
+# New Higher Res Icons and Text
 
 ![negate](textures/negated.png)
 
