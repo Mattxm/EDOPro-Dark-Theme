@@ -11,7 +11,7 @@ This was made for Project Ignis: https://projectignis.github.io/ might not work 
 3. Select "EDOPro-Dark-Theme" under skin in the options.
 
 
-# Screenshots:
+# Screenshots
 
 ![Alt text](screen/image-3.png)
 
