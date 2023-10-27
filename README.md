@@ -27,16 +27,16 @@ This was made for Project Ignis: https://projectignis.github.io/ might not work 
 
 # New Higher Res Icons and Text
 
-![negate](textures/negated.png)
+![negate](EDOPro-Dark-Theme/textures/negated.png)
 
-![equip](textures/equip.png)
+![equip](EDOPro-Dark-Theme/textures/equip.png)
 
-![chain target](textures/chaintarget.png)
+![chain target](EDOPro-Dark-Theme/textures/chaintarget.png)
 
-![attack](textures/attack.png)
+![attack](EDOPro-Dark-Theme/textures/attack.png)
 
-![action](textures/act.png)
+![action](EDOPro-Dark-Theme/textures/act.png)
 
-![chain](textures/chain.png)
+![chain](EDOPro-Dark-Theme/textures/chain.png)
 
-![chain number](textures/number.png)
+![chain number](EDOPro-Dark-Theme/textures/number.png)
