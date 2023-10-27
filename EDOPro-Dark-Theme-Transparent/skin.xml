@@ -1,10 +1,10 @@
 ```xml
 <Skin>
 	<Properties>
-		<Name data="EDO-Dark-Theme-Transparent" />
+		<Name data="EDOPro-Dark-Theme-Transparent" />
 		<Author data="mattxm" />
-		<Version data="0.1" />
-		<Date data="25-10-2023"/>
+		<Version data="0.2" />
+		<Date data="26-10-2023"/>
 		<Desc data="a pretty decent dark theme"/>
 		<Fallback skin="" />
 		<Font texture="fontNotosans.png" />
