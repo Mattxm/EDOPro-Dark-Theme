@@ -11,21 +11,24 @@ This was made for Project Ignis: https://projectignis.github.io/ might not work 
 # Optional
 
 * Change the background by replacing the "bg.png" file in the textures folder.
-* Remove the "field3" and "field3-transparent" files to revert it to the default ones.
 
 # Transparent
 
-![Alt text](screen/image1.png)
+![Alt text](screen/igt1.png)
 
-![Alt text](screen/image.png)
+![Alt text](screen/igt2.png)
+
+![Alt text](screen/deckt.png)
 
 # Opaque
 
-![Alt text](screen/image-3.png)
+![Alt text](screen/igo1.png)
 
-![Alt text](screen/image-4.png)
+![Alt text](screen/igo2.png)
 
-![Alt text](screen/image-5.png)
+![Alt text](screen/decko.png)
+
+![Alt text](screen/multiplayer.png)
 
 # New Higher Res Icons and Text
 
