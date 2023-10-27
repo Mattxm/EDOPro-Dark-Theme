@@ -13,19 +13,19 @@ This was made for Project Ignis: https://projectignis.github.io/ might not work 
 * Change the background by replacing the "bg.png" file in the textures folder.
 * Remove the "field3" and "field3-transparent" files to revert it to the default ones.
 
-# Screenshots
+# Transparent
+
+![Alt text](screen/image1.png)
+
+![Alt text](screen/image.png)
+
+# Opaque
 
 ![Alt text](screen/image-3.png)
 
 ![Alt text](screen/image-4.png)
 
 ![Alt text](screen/image-5.png)
-
-# Transparent Version
-
-![Alt text](screen/image.png)
-
-![Alt text](screen/image-1.png)
 
 # New Higher Res Icons and Text
 
