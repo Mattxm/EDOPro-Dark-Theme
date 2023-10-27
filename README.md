@@ -1,8 +1,6 @@
 # EDOPro Dark Theme
- Dark Theme for EDOPro 
 
 This was made for Project Ignis: https://projectignis.github.io/ might not work in the other simulators.
-
 
 # Install
 
@@ -10,6 +8,10 @@ This was made for Project Ignis: https://projectignis.github.io/ might not work 
 2. Restart game.
 3. Select "EDOPro-Dark-Theme" or "EDOPro-Dark-Theme-Transparent" under skin in the options.
 
+# Optional
+
+* Change the background by replacing the "bg.png" file in the textures folder.
+* Remove the "field3" and "field3-transparent" files to revert it to the default ones.
 
 # Screenshots
 
