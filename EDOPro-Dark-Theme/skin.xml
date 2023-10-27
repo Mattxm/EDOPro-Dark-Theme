@@ -187,9 +187,9 @@
 		</ComboBoxDisabled>
 	</ComboBox>
 	<SunkenPane texture="sunkenpane.png">
-		<Color a="255" r="255" g="255" b="255" />
-		<SrcBorder tlx="2" tly="2" brx="2" bry="2" />
-		<DstBorder tlx="2" tly="2" brx="2" bry="2" />
+		<Color a="245" r="245" g="245" b="245" />
+		<SrcBorder tlx="1" tly="1" brx="1" bry="1" />
+			<DstBorder tlx="1" tly="1" brx="1" bry="1" />
 	</SunkenPane>
 	<TabControl texture="TabControl.png">
 		<Color a="255" r="255" g="255" b="255" />
