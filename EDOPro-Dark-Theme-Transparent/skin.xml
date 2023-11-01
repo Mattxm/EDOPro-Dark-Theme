@@ -82,7 +82,7 @@
 		<DUELFIELD_ANNOUNCE_TEXT_COLOR a="255" r="255" g="255" b="255" />
 		<DUELFIELD_CARD_SELF_WINDOW_BACKGROUND a="222" r="36" g="36" b="36" />
 		<DUELFIELD_CARD_OPPONENT_WINDOW_BACKGROUND a="222" r="140" g="140" b="140" />
-		<DUELFIELD_CARD_SELECTED_WINDOW_BACKGROUND a="222" r="36" g="36" b="36" />
+		<DUELFIELD_CARD_SELECTED_WINDOW_BACKGROUND a="255" r="255" g="0" b="0" />
 		<DUELFIELD_CARD_SELECT_WINDOW_OVERLAY_TEXT a="255" r="255" g="255" b="255" />
 		<DUELFIELD_CARD_SELECT_WINDOW_SET_TEXT a="255" r="255" g="255" b="255" />
 		<DUELFIELD_CARD_LEVEL a="255" r="255" g="255" b="255" />
@@ -187,7 +187,7 @@
 		</ComboBoxDisabled>
 	</ComboBox>
 	<SunkenPane texture="sunkenpane.png">
-		<Color a="245" r="245" g="245" b="245" />
+		<Color a="255" r="255" g="255" b="255" />
 		<SrcBorder tlx="1" tly="1" brx="1" bry="1" />
 		<DstBorder tlx="1" tly="1" brx="1" bry="1" />
 	</SunkenPane>
